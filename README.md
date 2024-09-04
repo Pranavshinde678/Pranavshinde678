@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav_shinde_20032003&show_icons=true&theme=radical&count_private=true)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavshinde678&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav_shinde_20032003&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavshinde678&layout=compact&theme=radical)
 
 ---
 
