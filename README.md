@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 **Final Year CSE Student** at VIT Chennai, specializing in **AI and Robotics**.  
+🎓 **Final Year CSE Student** at Vellore Institute of Technology Chennai, specializing in **AI and Robotics**.  
 💡 Passionate about **Web Development** and creating innovative solutions.   
 📚 Continuously learning and growing through various projects and research.  
 
