@@ -4,7 +4,7 @@
 
 🎓 **Final Year CSE Student** at VIT Chennai, specializing in **AI and Robotics**.  
 💡 Passionate about **Web Development** and creating innovative solutions.   
-📚 Continuously learning and growing through various projects and research.
+📚 Continuously learning and growing through various projects and research.  
 
 ---
 
@@ -13,21 +13,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-
-
-### 🍽️ [Meal Maven - Recipe Finder](link_to_project)
-* A recipe recommendation platform that tailors suggestions based on available ingredients, built using modern web technologies.
-
-### 🎮 [Simon Game](link_to_project)
-* A digital version of the classic memory game, providing a fun and challenging experience with interactive gameplay.
-
-### 🔒 [Cybersecurity Quiz App](link_to_project)
-* A web application that tests and educates users on cybersecurity basics through engaging quizzes.
 
 ---
 
@@ -41,7 +31,9 @@
 
 ## 🌟 Achievements & Certifications
 
-- 🎖️ Completed training in **C, C++, Java, SQL, and Python** at VIT University.
+- 🎖️ **AWS Certified: Cloud Practitioner** with a score of 793/1000.
+- 🎖️ **Microsoft Certified: Azure Administrator Associate** with a score of 809/1000.
+- 🚀 Successfully completed **Training and Assessments in C, C++, Java, SQL, and Python** at VIT University, Chennai, conducted by Spoken Tutorial Projects, IIT Bombay.
 
 
 ---
